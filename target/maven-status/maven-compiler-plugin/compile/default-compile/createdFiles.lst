@@ -1,0 +1,3 @@
+com/example/arthurjpa/model/User.class
+com/example/arthurjpa/common/exception/DuplicationEmailException.class
+com/example/arthurjpa/ArthurJpaApplication.class
