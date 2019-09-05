@@ -1,3 +1,8 @@
-com/example/arthurjpa/model/User.class
 com/example/arthurjpa/common/exception/DuplicationEmailException.class
 com/example/arthurjpa/ArthurJpaApplication.class
+com/example/arthurjpa/service/UserApiService.class
+com/example/arthurjpa/domain/user/UserService.class
+com/example/arthurjpa/domain/user/repository/UserRepository.class
+com/example/arthurjpa/controller/UserController.class
+com/example/arthurjpa/common/DBConfig.class
+com/example/arthurjpa/domain/user/entity/User.class

@@ -1,3 +1,8 @@
 /Users/arthur/IdeaProjects/arthur-jpa/src/main/java/com/example/arthurjpa/common/exception/DuplicationEmailException.java
 /Users/arthur/IdeaProjects/arthur-jpa/src/main/java/com/example/arthurjpa/ArthurJpaApplication.java
-/Users/arthur/IdeaProjects/arthur-jpa/src/main/java/com/example/arthurjpa/model/User.java
+/Users/arthur/IdeaProjects/arthur-jpa/src/main/java/com/example/arthurjpa/domain/user/entity/User.java
+/Users/arthur/IdeaProjects/arthur-jpa/src/main/java/com/example/arthurjpa/domain/user/UserService.java
+/Users/arthur/IdeaProjects/arthur-jpa/src/main/java/com/example/arthurjpa/service/UserApiService.java
+/Users/arthur/IdeaProjects/arthur-jpa/src/main/java/com/example/arthurjpa/controller/UserController.java
+/Users/arthur/IdeaProjects/arthur-jpa/src/main/java/com/example/arthurjpa/domain/user/repository/UserRepository.java
+/Users/arthur/IdeaProjects/arthur-jpa/src/main/java/com/example/arthurjpa/common/DBConfig.java
